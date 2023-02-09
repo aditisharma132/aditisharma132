@@ -1,4 +1,6 @@
 # print(:octocat:*I am Aditi* :octocat:) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gCnrFGKW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-sharma-663709202) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aditiurbest) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AditiSh85563889) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=aditisharma132&icon=7&color=9)](https://visitcount.itsvg.in)
 
@@ -28,13 +30,12 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aditisharma132&theme=apprentice&no-frame=false&no-bg=false&margin-w=4" width="500">
 </details>
 
+<details>
+<summary>🥰 Here's to your smile!!</summary>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="500">
+</details>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gCnrFGKW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-sharma-663709202) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aditiurbest) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AditiSh85563889) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
