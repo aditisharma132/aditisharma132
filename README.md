@@ -1,5 +1,5 @@
 <h1 align="center">:octocat:  I'm Aditi  :octocat:</h1>
----
+
 [![](https://visitcount.itsvg.in/api?id=aditisharma132&icon=7&color=9)](https://visitcount.itsvg.in)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/63997962/213912935-eff2449b-ac9a-438b-92e7-65034109b1cf.svg)
