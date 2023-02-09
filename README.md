@@ -2,9 +2,7 @@
 ---
 
 
-> 👀 I’m interested in Dance and Code
-> 🌱 I’m currently learning Artificial Intelligence
-> 💞️ I’m looking to collaborate on AI-ML and Research 
+👀 Currently pursuing Computer Science & Engineering under the department of Artificial Intelligence at Sri Venkateshwara College Of Engineering, Bangalore [2020-24]. I am a passionate learner and an active participant in hackathons. I enjoy exploring new dimensions of technology and learning them which require me to push myself beyond the comfort zone and contribute while enriching my learnings. 
 > 📫 Reach out https://www.linkedin.com/in/aditi-sharma-663709202/ OR aditiurbest@gmail.com
 
 
