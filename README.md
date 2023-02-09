@@ -1,4 +1,4 @@
-# print('*I am Aditi*  :octocat:')
+# print(:octocat: *I am Aditi*  :octocat:)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/63997962/213912935-eff2449b-ac9a-438b-92e7-65034109b1cf.svg)
 ---
