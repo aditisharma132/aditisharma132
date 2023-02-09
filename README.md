@@ -1,6 +1,6 @@
 # print('*I am Aditi*  :octocat:')
 
-![giphy](https://user-images.githubusercontent.com/63997962/213916553-9d6c26f0-f74b-4bf0-a640-32573b5c09ac.gif) 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/63997962/213912935-eff2449b-ac9a-438b-92e7-65034109b1cf.svg)
 ---
 
 
@@ -13,9 +13,10 @@
 > Community Advocacy Program @MongoDB
 > 📫 Reach out https://www.linkedin.com/in/aditi-sharma-663709202/ OR aditiurbest@gmail.com
 
+---
 
+![giphy](https://user-images.githubusercontent.com/63997962/213916553-9d6c26f0-f74b-4bf0-a640-32573b5c09ac.gif) 
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/63997962/213912935-eff2449b-ac9a-438b-92e7-65034109b1cf.svg)
 
 
 
