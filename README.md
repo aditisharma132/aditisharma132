@@ -13,9 +13,12 @@
 
 > 🍁 I am the Google Developer Students Club Lead @SVCE and also a Beta Microsoft Learn Student Ambassador also an Enthusiast and Champion program nominees under the 
 > Community Advocacy Program @MongoDB
-
-</details> 
 ---
+
+<img align="right" width="200" src="https://media.licdn.com/dms/image/C4E03AQHKSiqJv-cNAg/profile-displayphoto-shrink_400_400/0/1631791422995?e=1681344000&v=beta&t=h4hiTsjBR1sycdWg9Q9ikuQmG9hXxOh97Y0gzwzdW9Q">
+  
+</details> 
+
 
 
 <details>
