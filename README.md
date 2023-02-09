@@ -26,7 +26,7 @@
 
 <details>
 <summary>## 🏆 GitHub Trophies</summary>
-<img src="![](https://github-profile-trophy.vercel.app/?username=aditisharma132&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)" width="500">
+<img src="https://github-profile-trophy.vercel.app/?username=aditisharma132&theme=apprentice&no-frame=false&no-bg=false&margin-w=4" width="500">
 </details>
 
 ## 🏆 GitHub Trophies
