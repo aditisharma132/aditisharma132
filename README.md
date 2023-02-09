@@ -15,7 +15,7 @@
 > Community Advocacy Program @MongoDB
 ---
 
-<img align="right" width="200" src="https://twitter.com/AditiSh85563889/status/1392404118862385152/photo/1">
+<img align="right" width="200" src="https://pbs.twimg.com/media/E1LQKrTUcAE2lVC?format=jpg&name=medium">
   
   
 </details> 
