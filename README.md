@@ -1,12 +1,11 @@
-<h1 align="center">:octocat:  I am Aditi  :octocat:</h1>
-
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gCnrFGKW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-sharma-663709202) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aditiurbest) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AditiSh85563889) 
-
+<h1 align="center">:octocat:  I'm Aditi  :octocat:</h1>
 ---
 [![](https://visitcount.itsvg.in/api?id=aditisharma132&icon=7&color=9)](https://visitcount.itsvg.in)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/63997962/213912935-eff2449b-ac9a-438b-92e7-65034109b1cf.svg)
+
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gCnrFGKW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-sharma-663709202) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aditiurbest) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AditiSh85563889) 
 ---
 
 # 💫 About Me:
