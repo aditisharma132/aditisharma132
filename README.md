@@ -13,7 +13,7 @@
 > Community Advocacy Program @MongoDB
 
 
-> 📫 Reach out https://www.linkedin.com/in/aditi-sharma-663709202/ OR aditiurbest@gmail.com
+
 
 ---
 
