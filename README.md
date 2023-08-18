@@ -29,6 +29,7 @@
 
 <details>
 <summary>📊 GitHub Stats:</summary>
+[![aditisharma132's GitHub | Stats](https://stats.quine.sh/aditisharma132/github?theme=dark)](https://quine.shtm_source=widgets&utm_campaign=aditisharma132)
 <img src ="https://github-readme-stats.vercel.app/api?username=aditisharma132&theme=darcula&hide_border=false&include_all_commits=true&count_private=true"<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditisharma132&theme=darcula&hide_border=false"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditisharma132&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
